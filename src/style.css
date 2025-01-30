@@ -96,6 +96,7 @@ body {
   span {
     flex: 1;
     padding-left: 20px;
+    padding-right: 15px;
     color: #e0e0e0;
   }
   
